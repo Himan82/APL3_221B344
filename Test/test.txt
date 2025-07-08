@@ -1,0 +1,1 @@
+creating a text file to try out some git functionalities
