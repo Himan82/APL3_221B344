@@ -1,1 +1,2 @@
 creating a text file to try out some git functionalities
+updated the linked gmail
